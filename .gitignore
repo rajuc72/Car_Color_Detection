@@ -1,0 +1,5 @@
+Dataset/
+venv/
+model_train.ipynb
+alexnet_model.h5
+Dockerfile
